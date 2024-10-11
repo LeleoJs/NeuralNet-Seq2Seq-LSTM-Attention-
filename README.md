@@ -5,4 +5,5 @@ Análise de fuga de corrente devido a deposicao de sal em insuladores em alto ma
 
 
 ![alt text](https://github.com/LeleoJs/NeuralNet-Seq2Seq-LSTM-Attention-/blob/main/trainXtest.png?raw=true)
+----
 ![alt text](https://github.com/LeleoJs/NeuralNet-Seq2Seq-LSTM-Attention-/blob/main/learn_rate.png?raw=true)
