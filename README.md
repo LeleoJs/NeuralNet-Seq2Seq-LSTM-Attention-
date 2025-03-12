@@ -1,5 +1,7 @@
 # Análise de dados para prever a taxa de deposição de sal em insuladores em alto mar
 Link github do projeto: https://github.com/LeleoJs/NeuralNet-Seq2Seq-LSTM-Attention-
+
+
 (Schoolwork about Seq2Seq + LSTM + Attention)
 
 Análise de fuga de corrente devido a deposição de sal em insuladores em alto mar. Insuladores são componentes elétricos com objetivo de isolar a passagem de corrente elétrica, no entanto em alto mar esses componentes tendem a acumular sal e possibilitar a passagem de corrente elétrica, a seguinte pesquisa tem como objetivo prever esse efeito via algoritmos de aprendizado de máquina utilizando um dataset fornecido. Segue o link do dataset dos insuladores utilizados no treinamento: https://github.com/SFStefenon/LeakageCurrent.git
