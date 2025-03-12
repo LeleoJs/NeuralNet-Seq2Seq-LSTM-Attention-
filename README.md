@@ -6,6 +6,13 @@ Análise de fuga de corrente devido a deposição de sal em insuladores em alto 
 O presente trabalho utiliza a combinação de arquiteturas Seq2Seq e LSTM, com a adição de estrutura "atention" para auxiliar a rede a focar em elementos relevantes na hora do treinamento. O uso de rede Seq2Seq + LSTM se deve ao fato dos dados serem séries temporais e dados que pussuem correlação temporal nescessitam que a análise leve em consideração a variação entre "o que ocorreu antes e depois" no dados. No caso a rede Seq2Seq trabalha com um input "rolante" de uma sequência e um output da sequência de dados que serão a previsão da corrente nos insuladores. 
 
 
+Informações sobre a rede:
+* Arquitetura: Seq2Seq + LSTM + Attention
+* Taxa de aprendizado: 0.005
+* Épocas de treinamento: 100
+* Número de camadas ocúltas: 8
+
+
 No gráfico abaixo visualizar-se em tracejado a previsão e em linha contínua o dado real obtidos com a arquitetura do algoritmo.
 
 
